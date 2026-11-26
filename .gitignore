@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+metrics.jsonl
+.vs/
+.vscode/
+*.pyproj.user
